@@ -39,7 +39,7 @@ My research question for this project was *"Can home sales in the United States 
 
 As demonstrated here, the generated model ended up being quite successful. The model had a mean absolute percentage error of 12.7%. 
 
-This easily surpassed the threshold of < 20% necessary to reject the mean hypothesis in favor of the alternative. I had expected to be able to generate a forecasting model of adequate effectiveness, but this was actually a much great success than I had anticipated. [My full report for this project, including all of my Python code, can be viewed here.](/D214/D214_Task_2.ipynb.ipynb)
+This easily surpassed the threshold of < 20% necessary to reject the mean hypothesis in favor of the alternative. I had expected to be able to generate a forecasting model of adequate effectiveness, but this was actually a much great success than I had anticipated. [My full report for this project, including all of my Python code, can be viewed here.](/D214/D214_Task_2.ipynb)
 
 This task did not require a video. 
 
